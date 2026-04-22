@@ -1,2 +1,2 @@
 # Gestion-de-RRHH
-Sistema de gestión de recursos humanos desarrollado en Java con SQLite. Permite registrar asistencias, controlar horas trabajadas, gestionar préstamos y clasificar empleados activos e inactivos. Con esta información, calcula automáticamente el salario neto de cada trabajador.
+Los archivos CConexion y CInicializar gestionan la conexión y configuración de la base de datos SQLite dentro del sistema. Implementan la lógica base del CRUD, permitiendo establecer la conexión, crear tablas e inicializar la estructura necesaria para realizar operaciones de creación, lectura, actualización y eliminación de datos.
